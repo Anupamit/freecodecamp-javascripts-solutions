@@ -1,4 +1,4 @@
 # freecodecamp-learn-basic-JavaScript
 Basic JavaScript
 
-`It is process of get certified in freecodecamp`
+`Process of get certificate in freecodecamp`
